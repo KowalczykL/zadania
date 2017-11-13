@@ -5,17 +5,19 @@
  */
 package zadania;
 
+import alg.Tester;
+
 /**
  *
  * @author Łukasz Kowalczyk
  */
-public class Zadania {
+public class Glowna {
 
     /**
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        // TODO code application logic here
+        Tester.T1();
     }
     
 }
