@@ -5,6 +5,8 @@
  */
 package alg;
 
+import Reddit.Reddit1Easy;
+
 /**
  *
  * @author Łukasz Kowalczyk
@@ -24,9 +26,16 @@ public class Tester {
         System.out.println(millis2);
        long mx = millis2-millis;
        System.out.println(mx);
+     }
     
-    
-    
+    public static void T2(){
+        Reddit1Easy.zadanie1();
+        
+        
     }
+    
+    
+    
+    
     
 }
