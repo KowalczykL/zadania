@@ -5,7 +5,7 @@
  */
 package alg;
 
-import Reddit.Reddit1Easy;
+import Reddit.*;
 
 /**
  *
@@ -30,11 +30,11 @@ public class Tester {
     
     public static void T2(){
         Reddit1Easy.zadanie1();
-        
-        
     }
     
-    
+    public static void T3(){
+        Reddit2Easy.licz();
+    }
     
     
     
