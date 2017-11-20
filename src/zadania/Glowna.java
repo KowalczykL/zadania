@@ -17,7 +17,7 @@ public class Glowna {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        Tester.T3();
+        Tester.T6();
     }
     
 }

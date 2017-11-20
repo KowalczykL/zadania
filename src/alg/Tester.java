@@ -36,6 +36,21 @@ public class Tester {
         Reddit2Easy.licz();
     }
     
+     public static void T31(){
+        Reddit3Easy.encrypt();
+    }  
+     
+     public static void T4(){
+         String[] wynik = Reddit4Easy.generujHasla(4,4);
+        System.out.println(wynik);
+        for(String jedno:wynik){
+          System.out.println(jedno); 
+            
+        }}
+        public static void T6(){
+        Reddit6Easy.liczPi();
     
+        
+    }
     
 }
