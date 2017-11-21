@@ -6,6 +6,7 @@
 package alg;
 
 import Reddit.*;
+import static alg.Tester.T8;
 
 /**
  *
@@ -13,7 +14,10 @@ import Reddit.*;
  */
 public class Tester {
     
-    
+    public static void testuj(){
+        Tester.T9();
+        
+    }
     public static void T1(){
              long millis = System.currentTimeMillis();
                      System.out.print(millis);
@@ -50,7 +54,18 @@ public class Tester {
         public static void T6(){
         Reddit6Easy.liczPi();
     
-        
     }
     
+        public static void T8(){
+        Reddit8Easy.spiewaj();
+    
+    }        
+      
+       public static void T9(){
+        Reddit9Easy.poukładaj();
+    
+    }   
+        
+        
+        
 }

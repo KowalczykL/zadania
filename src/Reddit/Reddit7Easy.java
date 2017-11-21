@@ -57,7 +57,7 @@ String M = "--";
 String Z = "--.."; 
    //int pierwszaSpacja;
    //int drugaSpacja;
-String input = "test";
+//String input = "test";
 char output;
 
 switch (input){
